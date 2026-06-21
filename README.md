@@ -86,7 +86,9 @@ Technical decisions and implementation details are being finalized.
 | Role | Member |
 |--------|--------|
 | 🤖 AI & Logic | Sohila |
-| 🎨 UI & Design | Maryam |
+| 🎨 UI & Design | Mariem |
+| 👩‍💻 Fullstack | Sara |
+
 
 ---
 
